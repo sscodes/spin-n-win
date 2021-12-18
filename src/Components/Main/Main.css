@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.form-label {
+  font-family: "Pacifico", cursive;
+  color: red;
+}
+
+.btn-text {
+  font-size: larger;
+  font-family: "Pacifico", cursive;
+}
+
+.ani {
+  animation-duration: 2s;
+}
+
+.result {
+  margin-top: 12rem;
+}
+
+.img-style {
+  margin-top: 4rem;
+}
+
+.res-style {
+  font-family: "Pacifico", cursive;
+  color: red;
+}
